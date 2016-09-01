@@ -1,0 +1,21 @@
+{
+  "name": "leMap",
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-leaflet-directive": "^0.10.0",
+    "angular-simple-logger": "^0.1.7",
+    "ui-leaflet": "^1.0.1"
+  }
+}
